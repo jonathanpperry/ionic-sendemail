@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionicEmail",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
